@@ -66,3 +66,11 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 - Para reiniciar o banco, basta apagar o arquivo `escola.db` (isso apagará todos os dados).
 
 ---
+
+
+## links 
+- https://api-651091791399.southamerica-east1.run.app/docs
+- https://api-651091791399.southamerica-east1.run.app/alunos
+- https://api-651091791399.southamerica-east1.run.app/cursos
+- https://api-651091791399.southamerica-east1.run.app/matriculas
+
