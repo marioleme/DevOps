@@ -2,6 +2,8 @@
 
 Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino.
 
+![Certificado](https://github.com/marioleme/DevOps/blob/main/certificado.png)
+
 ## Pré-requisitos
 
 - [Python 3.10 ou superior instalado](https://www.python.org/downloads/)
